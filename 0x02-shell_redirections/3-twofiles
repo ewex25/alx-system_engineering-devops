@@ -1,4 +1,4 @@
-#!/bin?bash
+#!/bin/bash
 cat /etc/passwd /etc/hosts
 tail /etc/passwd
 head /etc/passwd
